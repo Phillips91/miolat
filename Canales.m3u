@@ -1,0 +1,464 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/d4874a711563c0ac3cfac16fcb864c08.gif" group-title="DEPORTES",WIN SPORTS (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71686
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS + (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/1983098d11a8d706d98ee7d1d0140880.gif" group-title="DEPORTES",WIN SPORTS + (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/92566
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD (ESP)" tvg-logo="https://i.picasion.com/pic91/13f44661e6ac4c1b1fcee0647d3b99b0.gif" group-title="ESPAÑA",AXN HD (ESP)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/62863
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE (ESP)" tvg-logo="https://i.picasion.com/pic91/13f44661e6ac4c1b1fcee0647d3b99b0.gif" group-title="ESPAÑA",AXN WHITE (ESP)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/62865
+#EXTINF:-1 tvg-id="canal1.co" tvg-name="CANAL 1 (COL)" tvg-logo="https://www.bing.com/th?id=OIP.B_c11UYAcoEVU4Q11YyZ7AAAAA&w=97&h=100&c=8&rs=1&qlt=90&pid=3.1&rm=2" group-title="COLOMBIA",CANAL 1 (COL)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/53839
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="CARACOL (COL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRZw2RWP0jZR35Hr4BscuBwxBly2F3Kzng4zbtP6BBYe7NvXzeyn9qezlexczdpUWFvLE&usqp=CAU" group-title="COLOMBIA",CARACOL (COL)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/53833
+#EXTINF:-1 tvg-id="caracolinternacional.co" tvg-name="CARACOL INT (COL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfZ2PieVlE3NSrv7gOeTn0_U1sShsON1orNEGvdPYx37zRYbaneUgKYEt4hRmevWhQRQ&usqp=CAU" group-title="COLOMBIA",CARACOL INT (COL)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/53836
+#EXTINF:-1 tvg-id="citytv.co" tvg-name="CITY TV (COL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8KvsYyZfVhOpBAVGxaqli-OuNjF7sTJOeMQsWF9uJ1q7plNZPOuheoUxGxH1z95IVcJI&usqp=CAU" group-title="COLOMBIA",CITY TV (COL)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/53828
+#EXTINF:-1 tvg-id="directvsports2.ec" tvg-name="DIRECTV SPORTS 2 (EC)" tvg-logo="http://zeroxtv.xyz:2082/images/c9aae0d5d41514a68f81cc2550f091b4.jpg" group-title="ECUADOR",DIRECTV SPORTS 2 (EC)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/65123
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS PLUS (EC)" tvg-logo="http://zeroxtv.xyz:2082/images/015dd4f2c460d7b56ce5d1025767a328.jpg" group-title="ECUADOR",DIRECTV SPORTS PLUS (EC)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/65124
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="ECUADOR TV (EC)" tvg-logo="http://zeroxtv.xyz:2082/images/0adfd1b8204f42d1ee38ada554275f7d.jpg" group-title="ECUADOR",ECUADOR TV (EC)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/68308
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="ECUAVISA (EC)" tvg-logo="http://zeroxtv.xyz:2082/images/6de995abe76f1582353a55e7a76f1b11.jpg" group-title="ECUADOR",ECUAVISA (EC)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/68295
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FUTBOL (EC)" tvg-logo="https://play-lh.googleusercontent.com/Enik6q6-NWSruTAvqCdTCJKXhak9FKAXpnC1BjFph4deugU1LVxM4IsZCkRdnX9Ss40" group-title="ECUADOR",EL CANAL DEL FUTBOL (EC)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/65119
+#EXTINF:-1 tvg-id="gamatv.ec" tvg-name="GAMATV (EC)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYnppGUPGJ9cgUK43TJ7v_BcrXFJ0a1SM5w&usqp=CAU" group-title="ECUADOR",GAMATV (EC)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/68302
+#EXTINF:-1 tvg-id="oromar.ec" tvg-name="OROMAR TV (EC)" tvg-logo="http://zeroxtv.xyz:2082/images/970403de8b30e00d71422f19f119508a.png" group-title="ECUADOR",OROMAR TV (EC)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/68307
+#EXTINF:-1 tvg-id="tctelevision.ec" tvg-name="TC TELEVISION HD (EC)" tvg-logo="http://zeroxtv.xyz:2082/images/f7d2b0f25689dfcffec7a0fa5e089b79.jpg" group-title="ECUADOR",TC TELEVISION HD (EC)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/68304
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DE LA REGION - NORESTE (UY)" tvg-logo="" group-title="URUGUAY",EL CANAL DE LA REGION - NORESTE (UY)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/65346
+#EXTINF:-1 tvg-id="" tvg-name="EL ECO TV (ARG)" tvg-logo="" group-title="ARGENTINA",EL ECO TV (ARG)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/53938
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV (ESP)" tvg-logo="" group-title="ESPAÑA",EL TORO TV (ESP)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/62802
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE (ARG)" tvg-logo="http://zeroxtv.xyz:2082/images/0092da95b29792ea8c622ee45e00b33d.jpg" group-title="ARGENTINA",EL TRECE (ARG)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/90335
+#EXTINF:-1 tvg-id="etc.cl" tvg-name="ETC (CL)" tvg-logo="http://mylatinotv.com:8080/images/chile/etc.jpg" group-title="CHILE",ETC (CL)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/66633
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 (ESP)" tvg-logo="http://zeroxtv.xyz:2082/images/d150164a5d35a502baa08e9101df684e.png" group-title="ESPAÑA",EUROSPORT 1 (ESP)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/62751
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 (ESP)" tvg-logo="http://zeroxtv.xyz:2082/images/05c59b2d60008bbf87f1831df1899f22.png" group-title="ESPAÑA",EUROSPORT 2 (ESP)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/62753
+#EXTINF:-1 tvg-id="" tvg-name="EXITOSA (PE)" tvg-logo="http://zeroxtv.xyz:2082/images/621158f0de85066d2a1b2fe473ebd6f6.png" group-title="PERU",EXITOSA (PE)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/64974
+#EXTINF:-1 tvg-id="" tvg-name="EXTREME TV (CR)" tvg-logo="http://zeroxtv.xyz:2082/images/470fa1fc075a1a371dfde6aa342161a6.png" group-title="COSTA RICA",EXTREME TV (CR)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/68284
+#EXTINF:-1 tvg-id="" tvg-name="FDC TV (HN)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK41_HMNz9uHfAFqWiZhmelWargT15oKPI8Q&usqp=CAU" group-title="HONDURAS",FDC TV (HN)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71288
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD (ESP)" tvg-logo="http://zeroxtv.xyz:2082/images/f7a2182e7726ebfe5929fbf580ae8a56.png" group-title="ESPAÑA",FOX LIFE HD (ESP)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/62859
+#EXTINF:-1 tvg-id="" tvg-name="FUTV (CR)" tvg-logo="" group-title="COSTA RICA",FUTV (CR)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71590
+#EXTINF:-1 tvg-id="golperu.pe" tvg-name="GOL PERU (DEP_PE)" tvg-logo="http://zeroxtv.xyz:2082/images/617a57a4ac9ed501b2196d4a96957319.png" group-title="DEPORTES",GOL PERU (DEP_PE)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/57104
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA (ESP)" tvg-logo="" group-title="ESPAÑA",HISTORIA (ESP)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/62816
+#EXTINF:-1 tvg-id="" tvg-name="HMIRABAL TV (RD)" tvg-logo="" group-title="REPUBLICA DOMINICANA",HMIRABAL TV (RD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/53962
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD (ESP)" tvg-logo="" group-title="ESPAÑA",HOLLYWOOD HD (ESP)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/62855
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/c13acdc173a0aa2ebd4109759821402e.gif" group-title="INFANTILES",CARTOON NETWORK (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71620
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/74fb067404dbbb0a9f37ed2ee387f29f.gif" group-title="CINE",CINECANAL (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71621
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/519435098c4bbc67fdc839d2ddadf5dd.gif" group-title="CINE",CINEMAX (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/91200
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/ec33e03ff388dcbeceb3eb8eedc63425.gif" group-title="DEPORTES",CLARO SPORTS (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71622
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/3984aa572121654f909baa2a1e739dfa.gif" group-title="ENTRETENIMIENTO",COMEDY CENTRAL (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71624
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/3ecedb5f78d3992dafd586743b426bce.gif" group-title="CINE",DE PELICULA (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/72018
+#EXTINF:-1 tvg-id="" tvg-name="DHE (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/bf52dfd5f640ac8f730caa027b5d4c44.gif" group-title="CINE",DHE (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71625
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/4c78599de5b6b5b5f061bf5f18701f1d.gif" group-title="DOCUMENTALES",DISCOVERY CIVILIZATION (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/91207
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/036ba6d051b90d2508e0e3ee84e111c1.gif" group-title="INFANTILES",DISCOVERY KIDS (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71628
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/9e7a56615f236b489863662adb410945.gif" group-title="INFANTILES",DISNEY CHANNEL (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71631
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/0e70acfd4c3d4bcedbb2ff4ea70806f5.gif" group-title="INFANTILES",DISNEY XD (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/91210
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/a068cf5fb61950ed02056835ab6703ca.gif" group-title="DEPORTES",ESPN 1 (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71632
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/a068cf5fb61950ed02056835ab6703ca.gif" group-title="DEPORTES",ESPN 2 (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71633
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/a068cf5fb61950ed02056835ab6703ca.gif" group-title="DEPORTES",ESPN 3 (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71634
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/a068cf5fb61950ed02056835ab6703ca.gif" group-title="DEPORTES",ESPN PLUS (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71635
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/f40f6a0627babc9115da8eecdc20c8cd.gif" group-title="ENTRETENIMIENTO",FOOD NETWORK (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/72023
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/a9ea70f0de9e8d12adc5411a8a6a9183.gif" group-title="DEPORTES",FOX SPORTS 1 (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71646
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/3fe2f3a9b964ec04b31d16023dcd4b40.gif" group-title="DEPORTES",FOX SPORTS 2 (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71647
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/122ede915e02c0f1c300af5004029189.gif" group-title="DEPORTES",FOX SPORTS 3 (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71648
+#EXTINF:-1 tvg-id="" tvg-name="FX (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/e8fc49c5d3acaa6d450a81f222fcdd23.gif" group-title="ENTRETENIMIENTO",FX (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71649
+#EXTINF:-1 tvg-id="" tvg-name="FXM (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/43716fd1081443e3cfc85ffd841c8e88.gif" group-title="CINE",FXM (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71650
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/38b00b62cfa1ac49a4f0859d720da8f6.gif" group-title="CINE",GOLDEN (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71651
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/38b00b62cfa1ac49a4f0859d720da8f6.gif" group-title="CINE",GOLDEN EDGE (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/91201
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/38b00b62cfa1ac49a4f0859d720da8f6.gif" group-title="CINE",GOLDEN PLUS (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/72019
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/38b00b62cfa1ac49a4f0859d720da8f6.gif" group-title="CINE",GOLDEN PREMIER (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71652
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/9c58e775ca139e266c8b0012e54446f3.gif" group-title="DEPORTES",GOLF CHANNEL (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71653
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/329ab1a9e9f79917784e97e6d9ab39eb.gif" group-title="ENTRETENIMIENTO",EL GOURMET (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71654
+#EXTINF:-1 tvg-id="" tvg-name="HBO (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/0801eb7e943c5a8fa4e7154a6c314ed7.gif" group-title="CINE",HBO (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71655
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/a6d8749d0d6072839fd13a1d5f6cdab1.gif" group-title="CINE",HBO 2 (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71656
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/738ac24c9adbbd0c3b7a6f2d6bce612d.gif" group-title="CINE",HBO FAMILY (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71657
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/1e953e0a6ccd5a3200c8aab48f04b629.gif" group-title="CINE",HBO MUNDI (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/91198
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/4bc5bedf850a35742f4262860fd43404.gif" group-title="CINE",HBO PLUS (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71658
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/473de5aa555fcc51f9ad043c4c3cd76f.gif" group-title="CINE",HBO POP (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/91199
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/7aafa8dd33d40a1df2da5513414c21a5.gif" group-title="CINE",HBO SIGNATURE (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71659
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME (LAT_HD)" tvg-logo="http://zeroxtv.xyz:2082/images/cc376c765e2f411c20d7acdadd3e0fdc.jpg" group-title="CINE",HBO XTREME (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/91197
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/82a3330673c6f4004b766138a3b6e008.gif" group-title="ENTRETENIMIENTO",HOLA TV (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71661
+#EXTINF:-1 tvg-id="" tvg-name="HTV (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/42a9c3acba742e5e479974c8c5b0f7b9.gif" group-title="MUSICA",HTV (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/91212
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/cf80ca6a9e1a80e0ea25ae2a2a1a9ea5.gif" group-title="ENTRETENIMIENTO",LIFETIME (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/91204
+#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/c0af55bdb6f436b4681db88bc97cc22d.gif" group-title="ENTRETENIMIENTO",MAS CHIC (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71663
+#EXTINF:-1 tvg-id="" tvg-name="MTV (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/c7d55db10ee576a5cb973d699b03ef61.gif" group-title="MUSICA",MTV (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71666
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/73276f088e95ac5e31478ae76e433c1b.gif" group-title="MUSICA",MTV HITS (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/91214
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/5c60dc0079a38331eca20dc5da66d1a2.gif" group-title="MUSICA",MTV LIVE (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71667
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/20de4aed620bc97865f03e3162514550.gif" group-title="INFANTILES",NATGEO KIDS (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71669
+#EXTINF:-1 tvg-id="" tvg-name="NICK 2 (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/71b3a1945a1295f6ef4e0ce0b9775046.gif" group-title="INFANTILES",NICK 2 (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71671
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/baf154e284afcfe9ad4f90ecf5cfcb34.gif" group-title="INFANTILES",NICK JR (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71672
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/8c64674f2494408bb717fe5aa114c0c9.gif" group-title="INFANTILES",NICKELODEON (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71673
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/268ec72d41ed2daffe4ca8dbad7e7061.gif" group-title="CINE",PARAMOUNT CHANNEL (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71674
+#EXTINF:-1 tvg-id="" tvg-name="SONY (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/232fa4fc26a7de272e9a7df5f421e3eb.gif" group-title="CINE",SONY (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71676
+#EXTINF:-1 tvg-id="" tvg-name="SPACE (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/e8cc55915e750bc68c15581ec0600b40.gif" group-title="ENTRETENIMIENTO",SPACE (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71677
+#EXTINF:-1 tvg-id="" tvg-name="STAR (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/6263b0b1dfc81c67794330205f85f6d7.gif" group-title="CINE",STAR (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71636
+#EXTINF:-1 tvg-id="" tvg-name="STAR ACTION (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/cc82ed66a8914acf485a8e59e354bfd4.gif" group-title="CINE",STAR ACTION (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71637
+#EXTINF:-1 tvg-id="" tvg-name="STAR CINEMA (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/212c1c050211d29f41b1a84a6717ee14.gif" group-title="CINE",STAR CINEMA (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71638
+#EXTINF:-1 tvg-id="" tvg-name="STAR CLASSICS (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/8560f7a664009180464d4e679f31ddbc.gif" group-title="CINE",STAR CLASSICS (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71639
+#EXTINF:-1 tvg-id="" tvg-name="STAR COMEDY (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/2083e3a37896d4e2bdb6d67ad66b1e71.gif" group-title="CINE",STAR COMEDY (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71640
+#EXTINF:-1 tvg-id="" tvg-name="STAR FAMILY (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/8e716faf2fd9f3b771933d04bc57b6af.gif" group-title="CINE",STAR FAMILY (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71641
+#EXTINF:-1 tvg-id="" tvg-name="STAR FUN (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/9c6be473a6d8956fb23088803fbcca57.gif" group-title="INFANTILES",STAR FUN (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/91202
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/a641549eab3f85a06ffc64d48580ea85.gif" group-title="CINE",STAR LIFE (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71642
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/c36dcd05ff394a613204625a7eef34c5.gif" group-title="CINE",STAR MOVIES (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71643
+#EXTINF:-1 tvg-id="" tvg-name="STAR SERIES (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/17a9af9243aee2ce8aa7ba1858ca2f2e.gif" group-title="CINE",STAR SERIES (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71645
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL (LAT_HD)" tvg-logo="http://zeroxtv.xyz:2082/images/786849df1bfb117ac45f7f2d74c26962.png" group-title="CINE",STUDIO UNIVERSAL (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/72016
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE CHANNEL (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/b4398b8909943a62f72f5b2466731183.gif" group-title="CINE",SUNDANCE CHANNEL (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71678
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT PLUS (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/b12d49244a1cf4042e0ef11e50c48774.gif" group-title="MUSICA",TELEHIT PLUS (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/91215
+#EXTINF:-1 tvg-id="" tvg-name="TLC (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/5ba5ea78bed88bfec6b9f20a9aef4b71.gif" group-title="ENTRETENIMIENTO",TLC (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71679
+#EXTINF:-1 tvg-id="" tvg-name="TNT (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/0e93395588acc37a64086f6e03672cd0.gif" group-title="ENTRETENIMIENTO",TNT (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71680
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/37811a93a44d9481130911af0abe0243.gif" group-title="ENTRETENIMIENTO",TNT SERIES (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71681
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/914dd192acfef275459f864a879a742b.gif" group-title="INFANTILES",TOONCAST (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/91211
+#EXTINF:-1 tvg-id="" tvg-name="TV MAS (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/4c64ced10f1890ed3b3d8af17282cc80.gif" group-title="ENTRETENIMIENTO",TV MAS (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/72025
+#EXTINF:-1 tvg-id="" tvg-name="UNICABLE (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/9e2933078af65ed4f6357b5a4fd4aff0.gif" group-title="ENTRETENIMIENTO",UNICABLE (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/72027
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/00b0a5adaee583967676c4df47012b23.gif" group-title="CINE",UNIVERSAL CHANNEL (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71683
+#EXTINF:-1 tvg-id="" tvg-name="UNO TV (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/b28d0e8cb545fefcf14968c70d57e942.gif" group-title="ENTRETENIMIENTO",UNO TV (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/72028
+#EXTINF:-1 tvg-id="" tvg-name="VH1 (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/cf83a9118789b0912732a43c25915038.gif" group-title="MUSICA",VH1 (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71684
+#EXTINF:-1 tvg-id="" tvg-name="WARNER (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/a39d79f147352e1c4d8f70ecc596e183.gif" group-title="CINE",WARNER (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71685
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/d4874a711563c0ac3cfac16fcb864c08.gif" group-title="DEPORTES",WIN SPORTS (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71686
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS + (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/1983098d11a8d706d98ee7d1d0140880.gif" group-title="DEPORTES",WIN SPORTS + (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/92566
+#EXTINF:-1 tvg-id="aande.mx" tvg-name="A&E MUNDO (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/2ef8f540f7198c5a22540db962b758b4.gif" group-title="ENTRETENIMIENTO",A&E MUNDO (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71767
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/3ee7b2202cc8a66a73d1293127114f4b.gif" group-title="DOCUMENTALES",ANIMAL PLANET (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71768
+#EXTINF:-1 tvg-id="" tvg-name="AZ MUNDO (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/1ac8ce1b623fd9e0cd25df0d75f4b625.gif" group-title="ENTRETENIMIENTO",AZ MUNDO (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71770
+#EXTINF:-1 tvg-id="" tvg-name="CANAL CLARO (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/79d680e786d6e58ab7ac26ccaf115b52.gif" group-title="DEPORTES",CANAL CLARO (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71771
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/c13acdc173a0aa2ebd4109759821402e.gif" group-title="INFANTILES",CARTOON NETWORK (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71772
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DINAMITA (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/f5aa1b6f7a9117062e1883c5033d7fe7.gif" group-title="CINE",CINEMA DINAMITA (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/72017
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/ec33e03ff388dcbeceb3eb8eedc63425.gif" group-title="DEPORTES",CLARO SPORTS (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71775
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/3984aa572121654f909baa2a1e739dfa.gif" group-title="ENTRETENIMIENTO",COMEDY CENTRAL (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71776
+#EXTINF:-1 tvg-id="" tvg-name="DHE (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/bf52dfd5f640ac8f730caa027b5d4c44.gif" group-title="CINE",DHE (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71777
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/036ba6d051b90d2508e0e3ee84e111c1.gif" group-title="INFANTILES",DISCOVERY KIDS (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71780
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/9e7a56615f236b489863662adb410945.gif" group-title="INFANTILES",DISNEY CHANNEL (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71783
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/a068cf5fb61950ed02056835ab6703ca.gif" group-title="DEPORTES",ESPN 1 (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71784
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/a068cf5fb61950ed02056835ab6703ca.gif" group-title="DEPORTES",ESPN 2 (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71785
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/a068cf5fb61950ed02056835ab6703ca.gif" group-title="DEPORTES",ESPN 3 (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71786
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/a068cf5fb61950ed02056835ab6703ca.gif" group-title="DEPORTES",ESPN PLUS (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71787
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/a9ea70f0de9e8d12adc5411a8a6a9183.gif" group-title="DEPORTES",FOX SPORTS 1 (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71798
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/3fe2f3a9b964ec04b31d16023dcd4b40.gif" group-title="DEPORTES",FOX SPORTS 2 (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71799
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/122ede915e02c0f1c300af5004029189.gif" group-title="DEPORTES",FOX SPORTS 3 (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71800
+#EXTINF:-1 tvg-id="" tvg-name="FX (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/3be99a6f84fadc4ee696a55884131537.gif" group-title="ENTRETENIMIENTO",FX (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71801
+#EXTINF:-1 tvg-id="" tvg-name="FXM (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/43716fd1081443e3cfc85ffd841c8e88.gif" group-title="CINE",FXM (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71802
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/38b00b62cfa1ac49a4f0859d720da8f6.gif" group-title="CINE",GOLDEN (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71803
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/38b00b62cfa1ac49a4f0859d720da8f6.gif" group-title="CINE",GOLDEN PREMIER (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71804
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/9c58e775ca139e266c8b0012e54446f3.gif" group-title="DEPORTES",GOLF CHANNEL (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71805
+#EXTINF:-1 tvg-id="" tvg-name="HBO (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/0801eb7e943c5a8fa4e7154a6c314ed7.gif" group-title="CINE",HBO (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71807
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/a6d8749d0d6072839fd13a1d5f6cdab1.gif" group-title="CINE",HBO 2 (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71808
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/738ac24c9adbbd0c3b7a6f2d6bce612d.gif" group-title="CINE",HBO FAMILY (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71809
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/4bc5bedf850a35742f4262860fd43404.gif" group-title="CINE",HBO PLUS (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71810
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/68458f8ce61f4bb4974015024cdc06f5.gif" group-title="DOCUMENTALES",HISTORY 2 (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/91209
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/82a3330673c6f4004b766138a3b6e008.gif" group-title="ENTRETENIMIENTO",HOLA TV (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71813
+#EXTINF:-1 tvg-id="" tvg-name="MAXPRIME (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/3c24f8561b83d069fb3c1ec9cbcc1ca6.gif" group-title="CINE",MAXPRIME (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71815
+#EXTINF:-1 tvg-id="" tvg-name="MTV (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/1f114713b8b819a11aa5eaf1c723bb35.gif" group-title="MUSICA",MTV (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71816
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/327485661f981c15284c394cd9fb3d58.gif" group-title="MUSICA",MTV LIVE (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71817
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/20de4aed620bc97865f03e3162514550.gif" group-title="INFANTILES",NATGEO KIDS (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71819
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/8c64674f2494408bb717fe5aa114c0c9.gif" group-title="INFANTILES",NICKELODEON (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71822
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/268ec72d41ed2daffe4ca8dbad7e7061.gif" group-title="CINE",PARAMOUNT CHANNEL (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71823
+#EXTINF:-1 tvg-id="" tvg-name="SONY (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/232fa4fc26a7de272e9a7df5f421e3eb.gif" group-title="CINE",SONY (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71825
+#EXTINF:-1 tvg-id="" tvg-name="SPACE (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/e8cc55915e750bc68c15581ec0600b40.gif" group-title="ENTRETENIMIENTO",SPACE (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71826
+#EXTINF:-1 tvg-id="" tvg-name="STAR (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/6263b0b1dfc81c67794330205f85f6d7.gif" group-title="CINE",STAR (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71788
+#EXTINF:-1 tvg-id="" tvg-name="STAR ACTION (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/cc82ed66a8914acf485a8e59e354bfd4.gif" group-title="CINE",STAR ACTION (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71789
+#EXTINF:-1 tvg-id="" tvg-name="STAR CINEMA (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/212c1c050211d29f41b1a84a6717ee14.gif" group-title="CINE",STAR CINEMA (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71790
+#EXTINF:-1 tvg-id="" tvg-name="STAR CLASSICS (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/8560f7a664009180464d4e679f31ddbc.gif" group-title="CINE",STAR CLASSICS (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71791
+#EXTINF:-1 tvg-id="" tvg-name="STAR FAMILY (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/8e716faf2fd9f3b771933d04bc57b6af.gif" group-title="CINE",STAR FAMILY (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71793
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/a641549eab3f85a06ffc64d48580ea85.gif" group-title="CINE",STAR LIFE (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71794
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/c36dcd05ff394a613204625a7eef34c5.gif" group-title="CINE",STAR MOVIES (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71795
+#EXTINF:-1 tvg-id="" tvg-name="STAR SERIES (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/17a9af9243aee2ce8aa7ba1858ca2f2e.gif" group-title="CINE",STAR SERIES (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71797
+#EXTINF:-1 tvg-id="" tvg-name="TLC (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/5ba5ea78bed88bfec6b9f20a9aef4b71.gif" group-title="DOCUMENTALES",TLC (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71827
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/00b0a5adaee583967676c4df47012b23.gif" group-title="CINE",UNIVERSAL CHANNEL (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71831
+#EXTINF:-1 tvg-id="" tvg-name="VH1 (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/cf83a9118789b0912732a43c25915038.gif" group-title="MUSICA",VH1 (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71832
+#EXTINF:-1 tvg-id="" tvg-name="WARNER (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/a39d79f147352e1c4d8f70ecc596e183.gif" group-title="CINE",WARNER (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/71833
+#EXTINF:-1 tvg-id="" tvg-name="LITUS TV (ARG)" tvg-logo="http://zeroxtv.xyz:2082/images/3a60477f43217f81c6988832549fd3f2.png" group-title="ARGENTINA",LITUS TV (ARG)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/53957
+#EXTINF:-1 tvg-id="" tvg-name="M. #VAMOS SD (ESP)" tvg-logo="http://zeroxtv.xyz:2082/images/33847ce9af2d68bd06347920b22c4459.png" group-title="ESPAÑA",M. #VAMOS SD (ESP)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/62742
+#EXTINF:-1 tvg-id="telemedellin.co" tvg-name="TELE MEDELLIN (COL)" tvg-logo="http://zeroxtv.xyz:2082/images/88e71d710fbbad4ec64602cb90c5e33b.png" group-title="COLOMBIA",TELE MEDELLIN (COL)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/85917
+#EXTINF:-1 tvg-id="teleantioquia.co" tvg-name="TELEANTIOQUIA (COL)" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_3.jpg?5q6xR31.Va1aGSy1I2VNgUPA_SkGWNXT&itok=XfJZ5LXH" group-title="COLOMBIA",TELEANTIOQUIA (COL)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/54091
+#EXTINF:-1 tvg-id="telecafe.co" tvg-name="TELECAFE (COL)" tvg-logo="https://seeklogo.com/images/T/telecafe-expresion-de-lo-nuestro-logo-850B821F87-seeklogo.com.gif" group-title="COLOMBIA",TELECAFE (COL)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/53835
+#EXTINF:-1 tvg-id="telecaribe.co" tvg-name="TELECARIBE (COL)" tvg-logo="http://zeroxtv.xyz:2082/images/00433fc9991b55505d4ac758449f6127.jpg" group-title="COLOMBIA",TELECARIBE (COL)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/63324
+#EXTINF:-1 tvg-id="telepacifico.co" tvg-name="TELEPACIFICO (COL)" tvg-logo="https://4.bp.blogspot.com/-P2Hq6xjBfqk/WA4dVoNmgLI/AAAAAAAAawY/cuDPYHzvCWgdyr_di6kvNnmJL40Z4er0QCLcB/s1600/LogoCuad-500-txtColor.tif" group-title="COLOMBIA",TELEPACIFICO (COL)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/53831
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (LA_HD)" tvg-logo="https://i.picasion.com/pic91/c7b67fbeeb754b37fbd1185faf269edc.gif" group-title="DOCUMENTALES",DISCOVERY CHANNEL (LA_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/92949
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/86c9cf99613f05570332ff3d8160ce84.gif" group-title="DOCUMENTALES",DISCOVERY WORLD (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/92953
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/240671843a788839f2cb3efcf3af2628.gif" group-title="DOCUMENTALES",INVESTIGATION DISCOVERY (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/92955
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/bb49d718bc6f0618c02fb5166cc21ced.gif" group-title="DOCUMENTALES",HISTORY (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/92956
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/3ee7b2202cc8a66a73d1293127114f4b.gif" group-title="DOCUMENTALES",ANIMAL PLANET (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/92957
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/8fcf26745ccd13e30ecf419a373b847a.gif" group-title="DOCUMENTALES",NATGEO (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/92958
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/d5534275b3899e8ce309af73c81d0062.gif" group-title="DOCUMENTALES",NATGEO WILD (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/92960
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="FOOD NETWORK (US)" tvg-logo="https://i.picasion.com/pic91/f40f6a0627babc9115da8eecdc20c8cd.gif" group-title="ENTERTAINMENT",FOOD NETWORK (US)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/92977
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/3ee7b2202cc8a66a73d1293127114f4b.gif" group-title="DOCUMENTALES",ANIMAL PLANET (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93128
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO (24/7)" tvg-logo="" group-title="24/7_LAT",EL CHAVO (24/7)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93161
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY PIXAR (24/7)" tvg-logo="" group-title="24/7_LAT",DISNEY PIXAR (24/7)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93164
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/c7b67fbeeb754b37fbd1185faf269edc.gif" group-title="DOCUMENTALES",DISCOVERY CHANNEL (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93172
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/a87c8dbba67e91451fca37e5edb6ab82.gif" group-title="DOCUMENTALES",DISCOVERY HOME & HEALTH (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93173
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATHER (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/3f6073391f0d9ac66abf134aebe64663.gif" group-title="DOCUMENTALES",DISCOVERY THEATHER (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93175
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/86c9cf99613f05570332ff3d8160ce84.gif" group-title="DOCUMENTALES",DISCOVERY WORLD (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93176
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/329ab1a9e9f79917784e97e6d9ab39eb.gif" group-title="ENTRETENIMIENTO",EL GOURMET (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93179
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/bb49d718bc6f0618c02fb5166cc21ced.gif" group-title="DOCUMENTALES",HISTORY (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93180
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/240671843a788839f2cb3efcf3af2628.gif" group-title="DOCUMENTALES",INVESTIGATION DISCOVERY (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93183
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/8fcf26745ccd13e30ecf419a373b847a.gif" group-title="DOCUMENTALES",NATGEO (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93186
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/d5534275b3899e8ce309af73c81d0062.gif" group-title="DOCUMENTALES",NATGEO WILD (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93188
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/baf154e284afcfe9ad4f90ecf5cfcb34.gif" group-title="INFANTILES",NICK JR (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93189
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/5cde3387610a684862d852705ac30836.gif" group-title="ENTRETENIMIENTO",PASIONES (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93191
+#EXTINF:-1 tvg-id="" tvg-name="TLC (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/5ba5ea78bed88bfec6b9f20a9aef4b71.gif" group-title="ENTRETENIMIENTO",TLC (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93193
+#EXTINF:-1 tvg-id="" tvg-name="TNT (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/0e93395588acc37a64086f6e03672cd0.gif" group-title="ENTRETENIMIENTO",TNT (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93194
+#EXTINF:-1 tvg-id="" tvg-name="TRUTV (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/921d8275e3094e8430fedd4824071cb1.gif" group-title="ENTRETENIMIENTO",TRUTV (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93196
+#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO (PE)" tvg-logo="http://zeroxtv.xyz:2082/images/68a4acfdba2dea33070cd7eeba38fc20.png" group-title="PERU",TOP LATINO (PE)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93355
+#EXTINF:-1 tvg-id="" tvg-name="TRUTV (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/921d8275e3094e8430fedd4824071cb1.gif" group-title="ENTRETENIMIENTO",TRUTV (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93670
+#EXTINF:-1 tvg-id="" tvg-name="SPACE (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/e8cc55915e750bc68c15581ec0600b40.gif" group-title="ENTRETENIMIENTO",SPACE (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93671
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/5cde3387610a684862d852705ac30836.gif" group-title="ENTRETENIMIENTO",PASIONES (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93672
+#EXTINF:-1 tvg-id="" tvg-name="AXN (LAT_HD)" tvg-logo="https://i.picasion.com/pic91/13f44661e6ac4c1b1fcee0647d3b99b0.gif" group-title="ENTRETENIMIENTO",AXN (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/93673
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK (LAT_SD)" tvg-logo="https://i.picasion.com/pic91/f40f6a0627babc9115da8eecdc20c8cd.gif" group-title="ENTRETENIMIENTO",FOOD NETWORK (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/94096
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 (MX)" tvg-logo="" group-title="DEPORTES",ESPN 1 (MX)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101010
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SUR (ARG_HD)" tvg-logo="" group-title="DEPORTES",ESPN 1 SUR (ARG_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101011
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SUR (COL_HD)" tvg-logo="" group-title="DEPORTES",ESPN 1 SUR (COL_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101012
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (MX_FHD)" tvg-logo="" group-title="DEPORTES",ESPN 2 (MX_FHD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101013
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (MX_HD)" tvg-logo="" group-title="DEPORTES",ESPN 2 (MX_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101014
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SUR (ARG_HD)" tvg-logo="" group-title="DEPORTES",ESPN 2 SUR (ARG_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101015
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (ARG_SD)" tvg-logo="" group-title="DEPORTES",ESPN 3 (ARG_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101016
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (ARG_HFD)" tvg-logo="" group-title="DEPORTES",ESPN 3 (ARG_HFD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101017
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (MX_HD)" tvg-logo="" group-title="DEPORTES",ESPN 3 (MX_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101018
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (ARG_HD)" tvg-logo="" group-title="DEPORTES",ESPN 3 (ARG_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101019
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (COL_HD)" tvg-logo="" group-title="DEPORTES",ESPN 3 (COL_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101020
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (MX_SD)" tvg-logo="" group-title="DEPORTES",ESPN 3 (MX_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101021
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SUR (ARG_HFD)" tvg-logo="" group-title="DEPORTES",ESPN 3 SUR (ARG_HFD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101022
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES (LAT)" tvg-logo="" group-title="DEPORTES",ESPN DEPORTES (LAT)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101023
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES (LAT_HD)" tvg-logo="" group-title="DEPORTES",ESPN DEPORTES (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101024
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA (LAT_FHD)" tvg-logo="" group-title="DEPORTES",ESPN EXTRA (LAT_FHD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101025
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA (LAT_HD)" tvg-logo="" group-title="DEPORTES",ESPN EXTRA (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101026
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR (LAT)" tvg-logo="" group-title="DEPORTES",ESPN SUR (LAT)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101027
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA TV (LAT)" tvg-logo="" group-title="DEPORTES",ESTRELLA TV (LAT)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101028
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 1 (LAT)" tvg-logo="" group-title="DEPORTES",EUROSPORTS 1 (LAT)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101029
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 2 (LAT)" tvg-logo="" group-title="DEPORTES",EUROSPORTS 2 (LAT)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101030
+#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES (LAT_HD)" tvg-logo="" group-title="DEPORTES",FOX DEPORTES (LAT_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101031
+#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES (LAT_SD)" tvg-logo="" group-title="DEPORTES",FOX DEPORTES (LAT_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101032
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 (MX_HD)" tvg-logo="" group-title="DEPORTES",FOX SPORTS 1 (MX_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101033
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 (SUR_HD)" tvg-logo="" group-title="DEPORTES",FOX SPORTS 1 (SUR_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101034
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 (MX_FHD)" tvg-logo="" group-title="DEPORTES",FOX SPORTS 2 (MX_FHD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101035
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 (SUR_FHD)" tvg-logo="" group-title="DEPORTES",FOX SPORTS 2 (SUR_FHD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101036
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 (MX_HD)" tvg-logo="" group-title="DEPORTES",FOX SPORTS 2 (MX_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101037
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 (SUR_HD)" tvg-logo="" group-title="DEPORTES",FOX SPORTS 2 (SUR_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101038
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 (MX_SD)" tvg-logo="" group-title="DEPORTES",FOX SPORTS 2 (MX_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101039
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 (SUR_SD)" tvg-logo="" group-title="DEPORTES",FOX SPORTS 2 (SUR_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101040
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 (SUR_FHD)" tvg-logo="" group-title="DEPORTES",FOX SPORTS 3 (SUR_FHD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101041
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 (MX_FHD)" tvg-logo="" group-title="DEPORTES",FOX SPORTS 3 (MX_FHD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101042
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 (MX_HD)" tvg-logo="" group-title="DEPORTES",FOX SPORTS 3 (MX_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101043
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 (SUR_HD)" tvg-logo="" group-title="DEPORTES",FOX SPORTS 3 (SUR_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101044
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 (MX_SD)" tvg-logo="" group-title="DEPORTES",FOX SPORTS 3 (MX_SD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101045
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS (MX_HD)" tvg-logo="" group-title="DEPORTES",FOX SPORTS (MX_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101046
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM(MX_HD)" tvg-logo="" group-title="DEPORTES",FOX SPORTS PREMIUM(MX_HD)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/101047
